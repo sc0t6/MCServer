@@ -1,2 +1,2 @@
-# MCServer
-A Minecraft server dedicated to use with Github's codespace.
+# GitHubs Built-in Minecraft Server. OPEN SOURCE.
+This is a project to make a minecraft server for Paper I believe, or different types of loaders.
